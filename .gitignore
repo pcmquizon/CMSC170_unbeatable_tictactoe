@@ -1,0 +1,5 @@
+*.sh
+*.class
+*$.class
+*.zip
+bin/
